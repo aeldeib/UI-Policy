@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list_category">
+    <sys_aw_list_category action="DELETE">
+        <active>true</active>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_aw_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:17:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8048b5332f612010cd8f309cf699b635</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incidents</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ui polici" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ui polici">53e33df72f212010cd8f309cf699b6b4</sys_scope>
+        <sys_update_name>sys_aw_list_category_8048b5332f612010cd8f309cf699b635</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:17:33</sys_updated_on>
+        <title>Incidents</title>
+        <workspace display_value="ui ">8448b5332f612010cd8f309cf699b612</workspace>
+    </sys_aw_list_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ui policy">53e33df72f212010cd8f309cf699b6b4</application>
+        <file_path/>
+        <instance_id>68c30907db81481007072f17d49619ff</instance_id>
+        <instance_name>dev94747</instance_name>
+        <name>sys_aw_list_category_8048b5332f612010cd8f309cf699b635</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list_category"><sys_aw_list_category action="INSERT_OR_UPDATE"><active>true</active><description/><order>100</order><sys_class_name>sys_aw_list_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-13 17:17:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8048b5332f612010cd8f309cf699b635</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Incidents</sys_name><sys_overrides/><sys_package display_value="ui polici" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package><sys_policy/><sys_scope display_value="ui polici">53e33df72f212010cd8f309cf699b6b4</sys_scope><sys_update_name>sys_aw_list_category_8048b5332f612010cd8f309cf699b635</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-13 17:17:33</sys_updated_on><title>Incidents</title><workspace display_value="ui ">8448b5332f612010cd8f309cf699b612</workspace></sys_aw_list_category></record_update>]]></payload>
+        <payload_hash>1770869574</payload_hash>
+        <record_name>Incidents</record_name>
+        <reverted_from/>
+        <source>dbe33df72f212010cd8f309cf699b6b5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:17:33</sys_created_on>
+        <sys_id>8448b5332f612010cd8f309cf699b636</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176fcc0ab8b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:17:33</sys_updated_on>
+        <type>Workspace List Category</type>
+        <update_guid>cc48b533296120101e212b63b1835935</update_guid>
+        <update_guid_history>cc48b533296120101e212b63b1835935:1770869574</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:17:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_list_category">sys_aw_list_category</sys_db_object>
+        <sys_id>00b5dc824c4f4b989bfd58984f1135d9</sys_id>
+        <sys_metadata>8048b5332f612010cd8f309cf699b635</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incidents</sys_name>
+        <sys_package display_value="ui policy" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ui policy">53e33df72f212010cd8f309cf699b6b4</sys_scope>
+        <sys_scope_delete display_value="">187bdff0199b4664acb5163343072d69</sys_scope_delete>
+        <sys_update_name>sys_aw_list_category_8048b5332f612010cd8f309cf699b635</sys_update_name>
+        <sys_update_version display_value="sys_aw_list_category_8048b5332f612010cd8f309cf699b635">8448b5332f612010cd8f309cf699b636</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:17:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Include/exclude workspace notification</description>
+        <name>ws_active_notification</name>
+        <page display_value="ui polici">1bb779ff2f212010cd8f309cf699b6be</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:15:19</sys_created_on>
+        <sys_id>57b779ff2f212010cd8f309cf699b6c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_notification</sys_name>
+        <sys_package display_value="ui polici" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ui polici">53e33df72f212010cd8f309cf699b6b4</sys_scope>
+        <sys_update_name>sys_ux_page_property_57b779ff2f212010cd8f309cf699b6c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:15:19</sys_updated_on>
+        <type>boolean</type>
+        <unique_name>x_550461_ui_polici.ws_active_notification</unique_name>
+        <value>true</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=57b779ff2f212010cd8f309cf699b6c0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ui policy">53e33df72f212010cd8f309cf699b6b4</application>
+        <file_path/>
+        <instance_id>68c30907db81481007072f17d49619ff</instance_id>
+        <instance_name>dev94747</instance_name>
+        <name>sys_ux_page_property_57b779ff2f212010cd8f309cf699b6c0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Include/exclude workspace notification</description><name>ws_active_notification</name><page display_value="ui polici">1bb779ff2f212010cd8f309cf699b6be</page><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-13 17:15:19</sys_created_on><sys_id>57b779ff2f212010cd8f309cf699b6c0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ws_active_notification</sys_name><sys_package display_value="ui polici" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package><sys_policy/><sys_scope display_value="ui polici">53e33df72f212010cd8f309cf699b6b4</sys_scope><sys_update_name>sys_ux_page_property_57b779ff2f212010cd8f309cf699b6c0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-13 17:15:19</sys_updated_on><type>boolean</type><unique_name>x_550461_ui_polici.ws_active_notification</unique_name><value>true</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=57b779ff2f212010cd8f309cf699b6c0"/></record_update>]]></payload>
+        <payload_hash>-1385378942</payload_hash>
+        <record_name>ws_active_notification</record_name>
+        <reverted_from/>
+        <source>dbe33df72f212010cd8f309cf699b6b5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:15:19</sys_created_on>
+        <sys_id>1fb779ff2f212010cd8f309cf699b6c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176fcbe9f9e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:15:19</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>57b779ffca212010d61de7255b738ac1</update_guid>
+        <update_guid_history>57b779ffca212010d61de7255b738ac1:-1385378942</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:15:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>05f8a6857ead4c50804c4dff3bbc3e40</sys_id>
+        <sys_metadata>57b779ff2f212010cd8f309cf699b6c0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_notification</sys_name>
+        <sys_package display_value="ui policy" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ui policy">53e33df72f212010cd8f309cf699b6b4</sys_scope>
+        <sys_scope_delete display_value="">187bdff0199b4664acb5163343072d69</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_57b779ff2f212010cd8f309cf699b6c0</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_57b779ff2f212010cd8f309cf699b6c0">1fb779ff2f212010cd8f309cf699b6c1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:15:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

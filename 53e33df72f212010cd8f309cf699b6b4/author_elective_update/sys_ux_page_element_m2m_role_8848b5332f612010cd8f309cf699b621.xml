@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element_m2m_role">
+    <sys_ux_page_element_m2m_role action="DELETE">
+        <element display_value="Analytics Center Button">c448b5332f612010cd8f309cf699b61b</element>
+        <group/>
+        <role display_value="pa_viewer" name="pa_viewer">a90d30b3bf101100b96dac808c073950</role>
+        <sys_class_name>sys_ux_page_element_m2m_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:17:33</sys_created_on>
+        <sys_id>8848b5332f612010cd8f309cf699b621</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ui polici" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ui polici">53e33df72f212010cd8f309cf699b6b4</sys_scope>
+        <sys_update_name>sys_ux_page_element_m2m_role_8848b5332f612010cd8f309cf699b621</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:17:33</sys_updated_on>
+    </sys_ux_page_element_m2m_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ui policy">53e33df72f212010cd8f309cf699b6b4</application>
+        <file_path/>
+        <instance_id>68c30907db81481007072f17d49619ff</instance_id>
+        <instance_name>dev94747</instance_name>
+        <name>sys_ux_page_element_m2m_role_8848b5332f612010cd8f309cf699b621</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element_m2m_role"><sys_ux_page_element_m2m_role action="INSERT_OR_UPDATE"><element display_value="Analytics Center Button">c448b5332f612010cd8f309cf699b61b</element><group/><role display_value="pa_viewer" name="pa_viewer">a90d30b3bf101100b96dac808c073950</role><sys_class_name>sys_ux_page_element_m2m_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-13 17:17:33</sys_created_on><sys_id>8848b5332f612010cd8f309cf699b621</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="ui polici" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package><sys_policy/><sys_scope display_value="ui polici">53e33df72f212010cd8f309cf699b6b4</sys_scope><sys_update_name>sys_ux_page_element_m2m_role_8848b5332f612010cd8f309cf699b621</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-13 17:17:33</sys_updated_on></sys_ux_page_element_m2m_role></record_update>]]></payload>
+        <payload_hash>489801943</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>dbe33df72f212010cd8f309cf699b6b5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:17:33</sys_created_on>
+        <sys_id>4448b5332f612010cd8f309cf699b623</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176fcc0a9fe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:17:33</sys_updated_on>
+        <type>UX Page Element Permissions</type>
+        <update_guid>8c48b533cd61201018868b17bec8e522</update_guid>
+        <update_guid_history>8c48b533cd61201018868b17bec8e522:489801943</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:17:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_element_m2m_role">sys_ux_page_element_m2m_role</sys_db_object>
+        <sys_id>1c7dbc220695446092020b3f0b5b6210</sys_id>
+        <sys_metadata>8848b5332f612010cd8f309cf699b621</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ui policy" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ui policy">53e33df72f212010cd8f309cf699b6b4</sys_scope>
+        <sys_scope_delete display_value="">187bdff0199b4664acb5163343072d69</sys_scope_delete>
+        <sys_update_name>sys_ux_page_element_m2m_role_8848b5332f612010cd8f309cf699b621</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_element_m2m_role_8848b5332f612010cd8f309cf699b621">4448b5332f612010cd8f309cf699b623</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:17:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

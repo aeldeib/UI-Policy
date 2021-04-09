@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="DELETE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry/>
+        <description>sss</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data/>
+        <hide_search_results_count>false</hide_search_results_count>
+        <name>ui polici</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:15:19</sys_created_on>
+        <sys_id>17b779ff2f212010cd8f309cf699b6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ui polici</sys_name>
+        <sys_package display_value="ui polici" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ui polici">53e33df72f212010cd8f309cf699b6b4</sys_scope>
+        <sys_update_name>sys_aw_master_config_17b779ff2f212010cd8f309cf699b6be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:15:19</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>ui_polici</workspace_url>
+    </sys_aw_master_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ui policy">53e33df72f212010cd8f309cf699b6b4</application>
+        <file_path/>
+        <instance_id>68c30907db81481007072f17d49619ff</instance_id>
+        <instance_name>dev94747</instance_name>
+        <name>sys_aw_master_config_17b779ff2f212010cd8f309cf699b6be</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config"><sys_aw_master_config action="INSERT_OR_UPDATE"><active>true</active><brand_color/><compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page><compiled_page_registry/><description>sss</description><global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search><global_search_data/><hide_search_results_count>false</hide_search_results_count><name>ui polici</name><navigation_type>tab</navigation_type><notifications_enabled>true</notifications_enabled><primary_color/><search_enabled>true</search_enabled><sys_class_name>sys_aw_master_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-13 17:15:19</sys_created_on><sys_id>17b779ff2f212010cd8f309cf699b6be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ui polici</sys_name><sys_package display_value="ui polici" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package><sys_policy/><sys_scope display_value="ui polici">53e33df72f212010cd8f309cf699b6b4</sys_scope><sys_update_name>sys_aw_master_config_17b779ff2f212010cd8f309cf699b6be</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-13 17:15:19</sys_updated_on><user_preference_controls_enabled>true</user_preference_controls_enabled><workspace_logo/><workspace_url>ui_polici</workspace_url></sys_aw_master_config></record_update>]]></payload>
+        <payload_hash>-1653205942</payload_hash>
+        <record_name>ui polici</record_name>
+        <reverted_from/>
+        <source>dbe33df72f212010cd8f309cf699b6b5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:15:21</sys_created_on>
+        <sys_id>b7b7fdff2f212010cd8f309cf699b6fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176fcbea7940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:15:21</sys_updated_on>
+        <type>Workspace</type>
+        <update_guid>a7b7fdff4121201089bd63c45239a19e</update_guid>
+        <update_guid_history>a7b7fdff4121201089bd63c45239a19e:-1892399991,a7b7fdff4121201089bd63c45239a19e:-1892399991,a7b7fdff4121201089bd63c45239a19e:-1892399991</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:15:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_master_config">sys_aw_master_config</sys_db_object>
+        <sys_id>83b556dc275f4f3c9a90da283d9e4dc4</sys_id>
+        <sys_metadata>17b779ff2f212010cd8f309cf699b6be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ui polici</sys_name>
+        <sys_package display_value="ui policy" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ui policy">53e33df72f212010cd8f309cf699b6b4</sys_scope>
+        <sys_scope_delete display_value="">187bdff0199b4664acb5163343072d69</sys_scope_delete>
+        <sys_update_name>sys_aw_master_config_17b779ff2f212010cd8f309cf699b6be</sys_update_name>
+        <sys_update_version display_value="sys_aw_master_config_17b779ff2f212010cd8f309cf699b6be">b7b7fdff2f212010cd8f309cf699b6fc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:15:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

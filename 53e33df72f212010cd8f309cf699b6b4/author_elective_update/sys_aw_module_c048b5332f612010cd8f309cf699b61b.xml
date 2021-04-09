@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="DELETE">
+        <active>true</active>
+        <content/>
+        <content_attrs/>
+        <content_component/>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>analytics-center-outline</icon>
+        <id>analytics_center</id>
+        <label>Analytics Center</label>
+        <order>1000</order>
+        <roles name="pa_viewer">a90d30b3bf101100b96dac808c073950</roles>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:17:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c048b5332f612010cd8f309cf699b61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>analytics_center</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ui polici" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="ui polici">53e33df72f212010cd8f309cf699b6b4</sys_scope>
+        <sys_update_name>sys_aw_module_c048b5332f612010cd8f309cf699b61b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:17:33</sys_updated_on>
+        <toolbar_button/>
+        <type>full</type>
+        <workspace_config display_value="ui ">8448b5332f612010cd8f309cf699b612</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="DELETE" query="document_key=c048b5332f612010cd8f309cf699b61b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ui policy">53e33df72f212010cd8f309cf699b6b4</application>
+        <file_path/>
+        <instance_id>68c30907db81481007072f17d49619ff</instance_id>
+        <instance_name>dev94747</instance_name>
+        <name>sys_aw_module_c048b5332f612010cd8f309cf699b61b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module"><sys_aw_module action="INSERT_OR_UPDATE"><active>true</active><content/><content_attrs/><content_component/><content_tag/><detail/><detail_attrs/><detail_component/><detail_tag/><hide_until_ready>false</hide_until_ready><icon>analytics-center-outline</icon><id>analytics_center</id><label>Analytics Center</label><order>1000</order><roles name="pa_viewer">a90d30b3bf101100b96dac808c073950</roles><sys_class_name>sys_aw_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-13 17:17:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c048b5332f612010cd8f309cf699b61b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>analytics_center</sys_name><sys_overrides/><sys_package display_value="ui polici" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package><sys_policy/><sys_props/><sys_scope display_value="ui polici">53e33df72f212010cd8f309cf699b6b4</sys_scope><sys_update_name>sys_aw_module_c048b5332f612010cd8f309cf699b61b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-13 17:17:33</sys_updated_on><toolbar_button/><type>full</type><workspace_config display_value="ui ">8448b5332f612010cd8f309cf699b612</workspace_config></sys_aw_module><sys_variable_value action="delete_multiple" query="document_key=c048b5332f612010cd8f309cf699b61b"/></record_update>]]></payload>
+        <payload_hash>-1001710109</payload_hash>
+        <record_name>analytics_center</record_name>
+        <reverted_from/>
+        <source>dbe33df72f212010cd8f309cf699b6b5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:17:35</sys_created_on>
+        <sys_id>5048b5332f612010cd8f309cf699b66f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176fcc0afb20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:17:35</sys_updated_on>
+        <type>Workspace Module</type>
+        <update_guid>c448b533d961201071069f141a133129</update_guid>
+        <update_guid_history>c448b533d961201071069f141a133129:511228356,c448b533d961201071069f141a133129:511228356</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 17:17:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_module">sys_aw_module</sys_db_object>
+        <sys_id>82bd49a6444740069f7d8938ab4f6e44</sys_id>
+        <sys_metadata>c048b5332f612010cd8f309cf699b61b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>analytics_center</sys_name>
+        <sys_package display_value="ui policy" source="x_550461_ui_polici">53e33df72f212010cd8f309cf699b6b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ui policy">53e33df72f212010cd8f309cf699b6b4</sys_scope>
+        <sys_scope_delete display_value="">187bdff0199b4664acb5163343072d69</sys_scope_delete>
+        <sys_update_name>sys_aw_module_c048b5332f612010cd8f309cf699b61b</sys_update_name>
+        <sys_update_version display_value="sys_aw_module_c048b5332f612010cd8f309cf699b61b">5048b5332f612010cd8f309cf699b66f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 17:17:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
